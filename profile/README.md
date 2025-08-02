@@ -1,3 +1,16 @@
 # Aerios Linux
 
-> With love from Decentcarp, Phantom, Holmfrost, Kevadesu and Mimka
+A attempt at a Debian-based distro for fun. Our goal is being lightweight to run while actually looking decent out of the box.
+*This is mostly just a fun project for us to make.*
+
+## Developers:
+
+> Decentcarp - Core System
+
+> Kevadesu - All around developer
+
+> Holmfrost - Installer
+
+> Phantom - UI/UX Design
+
+> Mimka - Exists. Literally, that's it.
