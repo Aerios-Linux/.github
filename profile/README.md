@@ -5,12 +5,14 @@ A attempt at a Debian-based distro for fun. Our goal is being lightweight to run
 
 ## Developers:
 
-> Decentcarp - Core System
+> Decentcarp - Core System 
 
-> Kevadesu - All around developer
+> Kevadesu - All around, helps me with core system and will probably help with installer.
 
-> Holmfrost - Installer
+> Holmfrost - Installer 
 
 > Phantom - UI/UX Design
 
 > Mimka - Exists. Literally, that's it.
+
+**With lots of love, from Decentcarp (and the rest of us).**
