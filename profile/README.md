@@ -1,3 +1,3 @@
 # Aerios Linux
 
-> With love from Decentcarp, Phantom, Bence, Kevadesu and Mimka
+> With love from Decentcarp, Phantom, Holmfrost, Kevadesu and Mimka
