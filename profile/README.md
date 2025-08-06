@@ -7,7 +7,7 @@ A attempt at a Debian-based distro for fun. Our goal is being lightweight to run
 
 > Decentcarp - Core System 
 
-> Kevadesu - All around
+> Kevadesu - Helps everyone 
 
 > Holmfrost - Installer 
 
