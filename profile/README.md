@@ -9,7 +9,7 @@ A attempt at a Debian-based distro for fun. Our goal is being lightweight to run
 
 > Kevadesu - Helps everyone 
 
-> Holmfrost - Installer 
+> Polyreef - Installer 
 
 > Phantom - UI/UX Design
 
