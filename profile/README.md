@@ -5,13 +5,13 @@ A attempt at a Debian-based distro for fun. Our goal is being lightweight to run
 
 ## Developers:
 
-> Decentcarp - Core System 
+> Decentcarp - Core System (main)
 
-> Kevadesu - Helps everyone 
+> Kevadesu - Core System & Installer 
 
-> Polyreef - Installer 
+> Polyreef - Installer (main)
 
-> Phantom - UI/UX Design
+> Phantom - UI/UX Design (main)
 
 > Mimka - Exists. Literally, that's it.
 
